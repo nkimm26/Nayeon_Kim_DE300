@@ -9,7 +9,7 @@ The dataset is extracted from `T_F41SCHEDULE_B43.zip'. The goal is to identify a
 ### Contents
 
 - `Kim_HW1_DE300.ipynb`: The main Jupyter Notebook containing all analysis, code, and commentary.
-- `T_F41SCHEDULE_B43.zip`: The dataset used (not included in this repo for privacy reasons).
+- `T_F41SCHEDULE_B43.zip`: The dataset used.
 
 ---
 
