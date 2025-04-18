@@ -60,15 +60,5 @@ The dataset is extracted from `T_F41SCHEDULE_B43.zip'. The goal is to identify a
   - Barplot and table of the proportion of operating status by size
   - Barplot and table of the proportion of aircraft status by size
 
----
-
-Tools Used
-
-- Python 3
-- pandas – Data manipulation and analysis
-- matplotlib / seaborn – Visualization (if used)
-- re - Regular expression
-- boxcox - Box-Cox transformation
-- Jupyter Notebook – Interactive analysis environment
 
 
