@@ -1,6 +1,8 @@
 ## Overview
 The goal of this homework is to explore the MIMIC-III patient database through relational and non-relational databases.
 
+The main file relies on datasets not provided in this Github. They can be obtained from https://mit-lcp.github.io/mimic-schema-spy/relationships.html
+
 ## Files Included
 - 'DE300_HW2_nkim.ipynb' - main notebook file
 - 'Dockerfile' - used to build Docker image
@@ -29,5 +31,6 @@ Part 1 focuses on conducting analysis with relational databases through SQL quer
 
 Part 2 focuses on conducting the same analysis as part 1 but through Cassandra and data manipulation
 - Each question designs a Cassandra table, uploads data into the table, and extracts data
+- 
 
 No copies of the AWS crendentials file is stored on any publicly accessible location, nor is the file in any way shared with anyone outside of DATA_ENG 300 (Spring 2025).
