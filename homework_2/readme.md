@@ -6,6 +6,7 @@ The main file relies on datasets not provided in this Github. They can be obtain
 ## Files Included
 - 'DE300_HW2_nkim.ipynb' - main notebook file
 - 'Dockerfile' - used to build Docker image
+- 'Written Analysis DE300 HW2.pdf' - analysis of dataset
 
 ## Cassandra Keyspace
 This code connects to a Cassandra keyspace through my EC2 in a Docker Container.
