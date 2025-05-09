@@ -1,3 +1,6 @@
+## Overview
+The goal of this homework is to explore the MIMIC-III patient database through relational and non-relational databases.
+
 ## Files Included
 - 'DE300_HW2_nkim.ipynb' - main notebook file
 - 'Dockerfile' - used to build Docker image
