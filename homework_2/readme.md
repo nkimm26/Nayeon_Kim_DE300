@@ -31,6 +31,6 @@ Part 1 focuses on conducting analysis with relational databases through SQL quer
 
 Part 2 focuses on conducting the same analysis as part 1 but through Cassandra and data manipulation
 - Each question designs a Cassandra table, uploads data into the table, and extracts data
-- 
+  
 
 No copies of the AWS crendentials file is stored on any publicly accessible location, nor is the file in any way shared with anyone outside of DATA_ENG 300 (Spring 2025).
