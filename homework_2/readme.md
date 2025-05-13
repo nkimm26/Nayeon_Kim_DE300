@@ -4,7 +4,7 @@ The goal of this homework is to explore the MIMIC-III patient database through r
 The main file relies on datasets not provided in this Github. They can be obtained from https://mit-lcp.github.io/mimic-schema-spy/relationships.html
 
 ## Files Included
-- 'DE300_HW2_nkim.ipynb' - main notebook file
+- 'DE300_HW2.ipynb' - main notebook file
 - 'Dockerfile' - used to build Docker image
 - 'Written Analysis DE300 HW2.pdf' - analysis of dataset
 
