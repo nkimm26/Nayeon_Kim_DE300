@@ -8,6 +8,17 @@ The main file relies on datasets not provided in this Github. They can be obtain
 - 'Dockerfile' - used to build Docker image
 - 'Written Analysis DE300 HW2.pdf' - analysis of dataset
 
+## Datasets Used
+The following subset of the tables provided in the MIMIC-III database are used:
+
+- ADMISSIONS.csv
+- ICUSTAYS.csv
+- PATIENTS.csv
+- PROCEDURES_ICD.csv
+- D_ICD_PROCEDURES.csv
+- DRGCODES.csv
+- PRESCRIPTIONS.csv 
+
 ## Cassandra Keyspace
 This code connects to a Cassandra keyspace through my EC2 in a Docker Container.
 The following steps can be followed to conduct this. The inputs into my Command Prompt to conduct this are also given.
@@ -32,6 +43,11 @@ Part 1 focuses on conducting analysis with relational databases through SQL quer
 
 Part 2 focuses on conducting the same analysis as part 1 but through Cassandra and data manipulation
 - Each question designs a Cassandra table, uploads data into the table, and extracts data
-  
 
+The analysis questions are:
+1. Create a summary of type of drugs and their total amount used by ethnicity. Report the top usage in each ethnicity group. You may have to make certain assumptions in calculating their total amount.
+2. Create a summary of procedures performed on patients by age groups (<=19, 20-49, 50-79, >80). Report the top three procedures, along with the name of the procedures, performed in each age group.
+3. How long do patients stay in the ICU? Is there a difference in the ICU length of stay among gender or ethnicity?
+
+   
 No copies of the AWS crendentials file is stored on any publicly accessible location, nor is the file in any way shared with anyone outside of DATA_ENG 300 (Spring 2025).
