@@ -2,6 +2,7 @@
 The goal of this homework is to explore the use of MapReduce and Spark
 
 The main file relies on datasets not provided in this Github. They can be obtained from 
+
 https://raw.githubusercontent.com/mosesyhc/de300-2025sp-class/refs/heads/main/agnews_clean.csv
 https://raw.githubusercontent.com/mosesyhc/de300-2025sp-class/refs/heads/main/w.csv
 https://raw.githubusercontent.com/mosesyhc/de300-2025sp-class/refs/heads/main/bias.csv
