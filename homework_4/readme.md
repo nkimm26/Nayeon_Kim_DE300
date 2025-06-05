@@ -7,7 +7,7 @@ The goal of this homework is to collect weather data, generaate daily dashboards
 - de300_hw4_part3.py: DAG to create weather dashboards
 - train_temperature_model_20hr.py: DAG to train regression after 20 hours
 - train_temperature_model_40hr.py: DAG to train regression after 40 hours
-- 
+  
 ## Weather Stations Used:
 - KORD (Chicago O'Hare)
 - KENW (Kenosha, WI)
