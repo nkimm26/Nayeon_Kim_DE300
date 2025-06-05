@@ -1,0 +1,8 @@
+Group Members:
+- Nayeon Kim
+- Carlos Nuevo
+- Julia Song
+
+MWAA Environment: Kim_Nuevo_Song_MWAA
+
+S3 Bucket: kim-nuevo-song-mwaa
