@@ -41,3 +41,4 @@ ChatGPT was used to help fix the errors and set up parts of the DAGs. The follow
 - "Can you help fix this error: *paste in error*"
 - "How can I set up the DAG to run for only 48 hours"
 - "How can I save my output as a csv in a folder in my S3"
+- "How can I pull data from a folder in my S3 to use within my DAG"
