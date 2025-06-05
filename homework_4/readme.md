@@ -36,3 +36,8 @@ DAGs are set to run for 48 hours total.
 3. Let the DAGs run on schedule.
 4. Check logs and S3 bucket for output.
 
+## Generative AI Disclosure
+ChatGPT was used to help fix the errors and set up parts of the DAGs. The following prompts were used:
+- "Can you help fix this error: *paste in error*"
+- "How can I set up the DAG to run for only 48 hours"
+- "How can I save my output as a csv in a folder in my S3"
