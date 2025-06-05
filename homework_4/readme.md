@@ -1,7 +1,7 @@
 ## Overview
 The goal of this homework is to collect weather data, generaate daily dashboards visualizing key metrics, and train a linear regression model using a complete Apache Airflor pipeline.
 
-##Files Included
+## Files Included
 - info.txt: contains names of teammates and name of MWAA environment and S3 bucket
 - 
 
