@@ -21,7 +21,7 @@ This Jupyter notebook performs a two-part analysis on a global tourism‐economy
 ### Files
 
 * `DE300_project_CarLiOn.ipynb`
-* 'wgidataset.xlsx
+* 'wgidataset.xlsx'
 * 'world_tourism_economy_data.csv'
 
 ---
